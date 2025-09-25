@@ -1,0 +1,37 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone Frame -->
+  <rect x="10" y="10" width="280" height="180" rx="20" fill="#2C3E50"/>
+  <rect x="20" y="25" width="260" height="150" rx="10" fill="#34495e"/>
+
+  <!-- Game Screen -->
+  <rect x="25" y="30" width="250" height="140" rx="8" fill="url(#gameGradient1)"/>
+
+  <!-- Characters -->
+  <circle cx="70" cy="80" r="15" fill="#FF6B6B"/>
+  <circle cx="120" cy="90" r="12" fill="#4ECDC4"/>
+  <circle cx="180" cy="75" r="14" fill="#45B7D1"/>
+  <circle cx="230" cy="85" r="13" fill="#96CEB4"/>
+
+  <!-- House -->
+  <rect x="150" y="100" width="40" height="30" fill="#E74C3C"/>
+  <polygon points="170,100 150,85 190,85" fill="#8E44AD"/>
+
+  <!-- Trees -->
+  <circle cx="60" cy="120" r="8" fill="#27AE60"/>
+  <rect x="57" y="120" width="6" height="15" fill="#8B4513"/>
+
+  <circle cx="240" cy="110" r="10" fill="#27AE60"/>
+  <rect x="236" y="110" width="8" height="18" fill="#8B4513"/>
+
+  <!-- UI Elements -->
+  <rect x="30" y="35" width="30" height="6" rx="3" fill="#FFFFFF" opacity="0.8"/>
+  <circle cx="250" cy="40" r="8" fill="#E74C3C" opacity="0.8"/>
+
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="gameGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#87CEEB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#98FB98;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

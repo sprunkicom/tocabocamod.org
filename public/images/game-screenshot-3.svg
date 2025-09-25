@@ -1,0 +1,46 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone Frame -->
+  <rect x="10" y="10" width="280" height="180" rx="20" fill="#2C3E50"/>
+  <rect x="20" y="25" width="260" height="150" rx="10" fill="#34495e"/>
+
+  <!-- Game Screen -->
+  <rect x="25" y="30" width="250" height="140" rx="8" fill="url(#gameGradient3)"/>
+
+  <!-- School/Hospital Setting -->
+  <rect x="40" y="130" width="200" height="30" fill="#E8E8E8"/>
+
+  <!-- Building Elements -->
+  <rect x="60" y="60" width="40" height="70" fill="#FF6B6B" opacity="0.8"/>
+  <rect x="120" y="50" width="45" height="80" fill="#4ECDC4" opacity="0.8"/>
+  <rect x="180" y="65" width="35" height="65" fill="#96CEB4" opacity="0.8"/>
+
+  <!-- Windows on buildings -->
+  <rect x="65" y="70" width="8" height="8" fill="#FFFFFF"/>
+  <rect x="77" y="70" width="8" height="8" fill="#FFFFFF"/>
+  <rect x="65" y="85" width="8" height="8" fill="#FFFFFF"/>
+  <rect x="77" y="85" width="8" height="8" fill="#FFFFFF"/>
+
+  <rect x="130" y="60" width="8" height="8" fill="#FFFFFF"/>
+  <rect x="142" y="60" width="8" height="8" fill="#FFFFFF"/>
+  <rect x="130" y="75" width="8" height="8" fill="#FFFFFF"/>
+  <rect x="142" y="75" width="8" height="8" fill="#FFFFFF"/>
+
+  <!-- Characters -->
+  <circle cx="50" cy="120" r="6" fill="#FF6B6B"/>
+  <circle cx="110" cy="125" r="6" fill="#4ECDC4"/>
+  <circle cx="160" cy="120" r="6" fill="#45B7D1"/>
+  <circle cx="220" cy="125" r="6" fill="#96CEB4"/>
+  <circle cx="250" cy="120" r="6" fill="#F39C12"/>
+
+  <!-- Menu Icons -->
+  <circle cx="240" cy="45" r="6" fill="#E74C3C" opacity="0.9"/>
+  <circle cx="255" cy="45" r="6" fill="#2ECC71" opacity="0.9"/>
+
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="gameGradient3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E8F4FD;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#B8E6B8;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,42 @@
+<svg width="300" height="200" viewBox="0 0 300 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Phone Frame -->
+  <rect x="10" y="10" width="280" height="180" rx="20" fill="#2C3E50"/>
+  <rect x="20" y="25" width="260" height="150" rx="10" fill="#34495e"/>
+
+  <!-- Game Screen -->
+  <rect x="25" y="30" width="250" height="140" rx="8" fill="url(#gameGradient2)"/>
+
+  <!-- Room Interior -->
+  <rect x="40" y="120" width="200" height="40" fill="#D2B48C"/>
+
+  <!-- Furniture -->
+  <rect x="50" y="100" width="25" height="20" fill="#8B4513"/>
+  <rect x="180" y="95" width="30" height="25" fill="#FF69B4"/>
+  <circle cx="130" cy="110" r="10" fill="#FFD700"/>
+
+  <!-- Characters in room -->
+  <circle cx="90" cy="100" r="8" fill="#FF6B6B"/>
+  <circle cx="160" cy="105" r="7" fill="#4ECDC4"/>
+  <circle cx="200" cy="100" r="8" fill="#96CEB4"/>
+
+  <!-- Windows -->
+  <rect x="45" y="50" width="15" height="20" fill="#87CEEB" opacity="0.7"/>
+  <rect x="200" y="45" width="20" height="25" fill="#87CEEB" opacity="0.7"/>
+
+  <!-- Decorations -->
+  <circle cx="70" cy="65" r="4" fill="#FFB6C1"/>
+  <circle cx="220" cy="70" r="5" fill="#DDA0DD"/>
+  <circle cx="150" cy="55" r="3" fill="#F0E68C"/>
+
+  <!-- UI Bar -->
+  <rect x="30" y="35" width="220" height="8" rx="4" fill="#FFFFFF" opacity="0.9"/>
+  <rect x="35" y="37" width="80" height="4" rx="2" fill="#FF6B6B"/>
+
+  <!-- Gradient -->
+  <defs>
+    <linearGradient id="gameGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFE4E1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFF8DC;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+</svg>
