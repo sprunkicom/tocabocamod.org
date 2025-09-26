@@ -7,7 +7,9 @@
       "WebFetch(domain:tocabocaapk.download)",
       "Bash(gh auth:*)",
       "Bash(where git)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
