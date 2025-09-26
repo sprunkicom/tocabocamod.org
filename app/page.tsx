@@ -245,6 +245,7 @@ export default function HomePage() {
                 <a
                   href="https://download.gosuperfunny.com/toca.apk"
                   download="toca-boca-mod-apk.apk"
+                  rel="nofollow"
                   className="group relative bg-gradient-to-r from-pink-400 via-rose-500 to-orange-500 text-white px-10 py-5 rounded-2xl font-bold text-lg hover:scale-105 transition-all duration-300 shadow-xl inline-block text-center"
                 >
                   <div className="absolute inset-0 bg-gradient-to-r from-pink-500 via-rose-600 to-orange-600 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -695,6 +696,7 @@ export default function HomePage() {
             <a
               href="https://download.gosuperfunny.com/toca.apk"
               download="toca-boca-mod-apk.apk"
+              rel="nofollow"
               className="gradient-primary text-white px-12 py-4 rounded-full font-semibold text-xl hover:opacity-90 transition-opacity shadow-lg bounce-gentle inline-block"
             >
               Download Toca Boca Mod APK
