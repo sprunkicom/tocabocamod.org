@@ -6,7 +6,8 @@
       "Bash(npm run dev:*)",
       "WebFetch(domain:tocabocaapk.download)",
       "Bash(gh auth:*)",
-      "Bash(where git)"
+      "Bash(where git)",
+      "Bash(git add:*)"
     ],
     "deny": [],
     "ask": []

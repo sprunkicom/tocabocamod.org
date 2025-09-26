@@ -61,12 +61,6 @@ export default function HomePage() {
                 Features
               </a>
               <a
-                href="#download"
-                className="text-muted-foreground hover:text-primary transition-all duration-300 font-medium"
-              >
-                Download
-              </a>
-              <a
                 href="#guide"
                 className="text-muted-foreground hover:text-primary transition-all duration-300 font-medium"
               >
@@ -77,6 +71,12 @@ export default function HomePage() {
                 className="text-muted-foreground hover:text-primary transition-all duration-300 font-medium"
               >
                 FAQ
+              </a>
+              <a
+                href="#download"
+                className="text-muted-foreground hover:text-primary transition-all duration-300 font-medium"
+              >
+                Download
               </a>
               <div className="relative group">
                 <button className="text-muted-foreground hover:text-primary transition-all duration-300 font-medium flex items-center">
@@ -143,13 +143,6 @@ export default function HomePage() {
                   Features
                 </a>
                 <a
-                  href="#download"
-                  className="block text-muted-foreground hover:text-primary transition-all duration-300 font-medium py-2"
-                  onClick={() => setIsMobileMenuOpen(false)}
-                >
-                  Download
-                </a>
-                <a
                   href="#guide"
                   className="block text-muted-foreground hover:text-primary transition-all duration-300 font-medium py-2"
                   onClick={() => setIsMobileMenuOpen(false)}
@@ -162,6 +155,13 @@ export default function HomePage() {
                   onClick={() => setIsMobileMenuOpen(false)}
                 >
                   FAQ
+                </a>
+                <a
+                  href="#download"
+                  className="block text-muted-foreground hover:text-primary transition-all duration-300 font-medium py-2"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                >
+                  Download
                 </a>
                 <div className="pt-2">
                   <div className="text-muted-foreground font-medium py-2 border-b border-gray-200">Legal</div>
