@@ -63,8 +63,8 @@ export default function NotFound() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <a
-              href="/downloads/toca-boca-mod-apk-v1.115.apk"
-              download="toca-boca-mod-apk-v1.115.apk"
+              href="https://download.gosuperfunny.com/toca.apk"
+              download="toca-boca-mod-apk.apk"
               className="group relative bg-gradient-to-r from-pink-400 via-rose-500 to-orange-500 text-white px-10 py-4 rounded-2xl font-bold text-lg hover:scale-105 transition-all duration-300 shadow-xl inline-block"
             >
               <div className="absolute inset-0 bg-gradient-to-r from-pink-500 via-rose-600 to-orange-600 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>

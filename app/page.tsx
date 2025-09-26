@@ -25,7 +25,7 @@ export default function HomePage() {
       "@type": "Organization",
       "name": "TocaBoca Mod"
     },
-    "downloadUrl": "/downloads/toca-boca-mod-apk-v1.115.apk",
+    "downloadUrl": "https://download.gosuperfunny.com/toca.apk",
     "screenshot": "/tocabocaworld.jpg",
     "featureList": [
       "All characters unlocked",
@@ -243,8 +243,8 @@ export default function HomePage() {
               {/* CTA Buttons */}
               <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
                 <a
-                  href="/downloads/toca-boca-mod-apk-v1.115.apk"
-                  download="toca-boca-mod-apk-v1.115.apk"
+                  href="https://download.gosuperfunny.com/toca.apk"
+                  download="toca-boca-mod-apk.apk"
                   className="group relative bg-gradient-to-r from-pink-400 via-rose-500 to-orange-500 text-white px-10 py-5 rounded-2xl font-bold text-lg hover:scale-105 transition-all duration-300 shadow-xl inline-block text-center"
                 >
                   <div className="absolute inset-0 bg-gradient-to-r from-pink-500 via-rose-600 to-orange-600 rounded-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
@@ -693,8 +693,8 @@ export default function HomePage() {
 
           <div className="text-center mt-12">
             <a
-              href="/downloads/toca-boca-mod-apk-v1.115.apk"
-              download="toca-boca-mod-apk-v1.115.apk"
+              href="https://download.gosuperfunny.com/toca.apk"
+              download="toca-boca-mod-apk.apk"
               className="gradient-primary text-white px-12 py-4 rounded-full font-semibold text-xl hover:opacity-90 transition-opacity shadow-lg bounce-gentle inline-block"
             >
               Download Toca Boca Mod APK
