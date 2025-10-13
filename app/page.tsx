@@ -352,34 +352,27 @@ export default function HomePage() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Toca Boca Mod APK is a community-improved version of Toca Life World that removes obstacles often
-                encountered in free-to-play games. Unlike the official version, this Toca Life World Mod APK gives you
-                instant access to all the premium features, characters, and locations that require a special purchase.
+                Toca Boca Mod APK is a community-improved version of Toca Life World that removes obstacles often encountered in free-to-play games. Unlike the official version, this Toca Life World Mod APK gives you instant access to all the premium features, characters, and locations that require a special purchase.
               </p>
 
               <p className="text-lg text-muted-foreground leading-relaxed">
-                The official Toca Boca World offered a wonderful creative sandbox, but some of its funniest characters,
-                fashionable clothes, and elaborate locations required a paid subscription. This Mod APK removes these
-                limitations and reveals the full range of creative tools that make Toca Boca games so exciting.
+                The official Toca Boca World offers a wonderful creative sandbox, but some of its funniest characters, fashionable clothes, and elaborate locations require a paid subscription. This Mod APK removes these limitations and unlocks the full in-game creative toolkit for players to use.
               </p>
 
               <p className="text-lg text-muted-foreground leading-relaxed">
-                What makes this game different from typical mobile game mods is that it focuses on pure creativity
-                rather than competitive advantage. The new update of the Toca Boca Mod APK maintains the kid-friendly
-                philosophy of the original game and expands access to the content.
+                This version focuses on creativity rather than competitive experience. The new update of the Toca Boca Mod APK maintains the kid-friendly philosophy and expands access to the content.
               </p>
             </div>
 
             <div className="bg-white rounded-3xl p-8 shadow-xl border border-gray-100 float-animation">
-              <h3 className="text-2xl font-bold text-foreground mb-8">Access to these items are available:</h3>
+              <h3 className="text-2xl font-bold text-foreground mb-8">These items are available:</h3>
               <div className="space-y-6">
                 <div className="flex items-start space-x-4">
                   <div className="w-3 h-3 gradient-primary rounded-full mt-2 flex-shrink-0"></div>
                   <div>
                     <div className="font-semibold text-foreground mb-1">Character Collection</div>
                     <div className="text-sm text-muted-foreground">
-                      Over 200 unique characters with unique styles, special edition designs, and a seasonal avatar
-                      collection featuring the diverse Toca Boca game universe.
+                      Over 200 unique characters with characteristic styles, special designs, and a seasonal avatar collection featuring the diverse Toca Boca game universe.
                     </div>
                   </div>
                 </div>
@@ -388,8 +381,7 @@ export default function HomePage() {
                   <div>
                     <div className="font-semibold text-foreground mb-1">Furniture and Decor Library</div>
                     <div className="text-sm text-muted-foreground">
-                      Over 500 items, from contemporary apartments to artistic palaces, including the popular Toca Boca
-                      unlocked all furniture 2025 and home combinations.
+                      Over 500 items, from contemporary apartments to artistic palaces, including the popular Toca Boca all furniture 2025, and home combinations.
                     </div>
                   </div>
                 </div>
@@ -398,8 +390,7 @@ export default function HomePage() {
                   <div>
                     <div className="font-semibold text-foreground mb-1">Accommodations</div>
                     <div className="text-sm text-muted-foreground">
-                      More than 50 lush settings, from bustling hospitals and schools to peaceful resorts, are all part
-                      of the broader Toca Life World experience.
+                      More than 50 settings, from bustling hospitals and schools to peaceful resorts, are all part of the broader Toca Life World experience.
                     </div>
                   </div>
                 </div>
@@ -408,8 +399,7 @@ export default function HomePage() {
                   <div>
                     <div className="font-semibold text-foreground mb-1">Wardrobe Options</div>
                     <div className="text-sm text-muted-foreground">
-                      More than 300 costume combinations, covering all styles, seasons, and cultural themes, can reflect
-                      any character personality or story concept.
+                      More than 300 costume combinations, covering all styles, seasons, and cultural themes, can be adapted to any character personality or story concept.
                     </div>
                   </div>
                 </div>
@@ -425,8 +415,7 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Toca Boca Mod APK Features</h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto text-pretty">
-              What makes the Toca Boca Mod APK unique is that it removes any artificial limitations that can hinder the
-              creative process
+              Remove restrictions to allow creativity to soar freely.
             </p>
           </div>
 
@@ -435,10 +424,9 @@ export default function HomePage() {
               <div className="w-12 h-12 gradient-primary rounded-xl flex items-center justify-center mb-4">
                 <span className="text-white text-xl">🎨</span>
               </div>
-              <h3 className="text-xl font-semibold text-foreground mb-3">Complete Creative Freedom</h3>
+              <h3 className="text-xl font-semibold text-foreground mb-3">Complete Creation Freedom</h3>
               <p className="text-muted-foreground leading-relaxed">
-                This mod unlocks over 100 unique locations spread across 14 expansive map zones, each filled with
-                interactive elements that respond to the player's creativity.
+                This version unlocks over 100 unique locations that spread across 14 map zones. Every zone is filled with interactive elements that await players to explore.
               </p>
             </div>
 
@@ -446,10 +434,9 @@ export default function HomePage() {
               <div className="w-12 h-12 gradient-secondary rounded-xl flex items-center justify-center mb-4">
                 <span className="text-white text-xl">⚡</span>
               </div>
-              <h3 className="text-xl font-semibold text-foreground mb-3">Seamless Experience Design</h3>
+              <h3 className="text-xl font-semibold text-foreground mb-3">Smooth Game Experience</h3>
               <p className="text-muted-foreground leading-relaxed">
-                The happymod-style version features technical improvements that address common issues. Ads have been
-                removed to keep the creative process moving along.
+                To enhance the gaming experience, common issues have been resolved, and advertisements have been removed.
               </p>
             </div>
 
@@ -459,8 +446,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold text-foreground mb-3">Education Unit</h3>
               <p className="text-muted-foreground leading-relaxed">
-                The expanded Toca Boca Games retain the complex educational elements while expanding scope through
-                role-playing scenarios.
+                Through role-playing, Toca Boca games enable players to experience a diverse range of scenarios. Meanwhile, Toca Boca also incorporates educational elements, making the games more educational.
               </p>
             </div>
 
@@ -468,10 +454,9 @@ export default function HomePage() {
               <div className="w-12 h-12 gradient-primary rounded-xl flex items-center justify-center mb-4">
                 <span className="text-white text-xl">🔄</span>
               </div>
-              <h3 className="text-xl font-semibold text-foreground mb-3">Ongoing Content Change</h3>
+              <h3 className="text-xl font-semibold text-foreground mb-3">Regular updates</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Regular content updates ensure that the game stays closely aligned with the official release and gives
-                players full access to new features.
+                Regular updates ensure that the game synchronizes with the official release and allow players to fully experience the new features.
               </p>
             </div>
 
@@ -481,8 +466,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold text-foreground mb-3">Community-Centered Design</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Toca Boca extends the social elements to modified versions, promoting collaborative storytelling and
-                shared creative projects.
+                Toca Boca extends the social elements to this version to stimulate collaborative storytelling and shared creative works.
               </p>
             </div>
 
@@ -492,8 +476,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold text-foreground mb-3">Simplified Resource Management</h3>
               <p className="text-muted-foreground leading-relaxed">
-                This APK removes the need for in-game currency or unlock system and focuses on creative expression with
-                unlimited access.
+                This APK removes the need for in-game currency or the unlock system and focuses on creative expression with unlimited access.
               </p>
             </div>
           </div>
@@ -579,9 +562,9 @@ export default function HomePage() {
               <div className="gradient-primary w-10 h-10 rounded-lg flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-lg">🏠</span>
               </div>
-              <h3 className="font-semibold text-foreground mb-2">Educational Integration</h3>
+              <h3 className="font-semibold text-foreground mb-2">Educational Element</h3>
               <p className="text-sm text-muted-foreground">
-                Mail Placement features back-to-school themed items that support school year storytelling
+                Featuring school-themed products that help create the campus story.
               </p>
             </div>
 
@@ -591,7 +574,7 @@ export default function HomePage() {
               </div>
               <h3 className="font-semibold text-foreground mb-2">Rural Experience</h3>
               <p className="text-sm text-muted-foreground">
-                The Sweet Pea Cottage environment includes seven unique decor items for rural adventures
+                Sweet Pea Cottage environment adds seven distinctive rural decor pieces for your adventures.
               </p>
             </div>
 
@@ -601,7 +584,7 @@ export default function HomePage() {
               </div>
               <h3 className="font-semibold text-foreground mb-2">Urban Development</h3>
               <p className="text-sm text-muted-foreground">
-                The Maple Avenue Mansion features multiple floors and garden courtyards
+                The Maple Avenue Mansion is an inviting building with a rare garden courtyard.
               </p>
             </div>
 
@@ -611,7 +594,7 @@ export default function HomePage() {
               </div>
               <h3 className="font-semibold text-foreground mb-2">Seasonal Celebrations</h3>
               <p className="text-sm text-muted-foreground">
-                Halloween and Autumn Decorating Packs change the environment with seasonal themes
+                Seasonal Halloween & Fall Decorating Packs with Seasonal Themes transform the atmosphere.
               </p>
             </div>
 
@@ -621,7 +604,7 @@ export default function HomePage() {
               </div>
               <h3 className="font-semibold text-foreground mb-2">Nature Exploration</h3>
               <p className="text-sm text-muted-foreground">
-                Wildlife camping includes outdoor habitats and wildlife interaction opportunities
+                Wildlife camping provides field survival experiences and chances to interact with wildlife.
               </p>
             </div>
 
@@ -629,9 +612,9 @@ export default function HomePage() {
               <div className="gradient-accent w-10 h-10 rounded-lg flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-lg">⭐</span>
               </div>
-              <h3 className="font-semibold text-foreground mb-2">Story of Luxury</h3>
+              <h3 className="font-semibold text-foreground mb-2">Legend of Luxury</h3>
               <p className="text-sm text-muted-foreground">
-                The superstar's four-storey mansion with high-end furnishings and celebrity lifestyle accessories
+                The superstar's four-storey mansion with upscale furnishings and celebrity accessories
               </p>
             </div>
           </div>
@@ -713,15 +696,10 @@ export default function HomePage() {
             <div className="space-y-6">
               <h2 className="text-3xl md:text-4xl font-bold text-foreground">About Toca Boca World</h2>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                Originally known as Toca Life World, Toca Boca World celebrates the evolution of creative sandbox gaming
-                for young players. The Swedish development team behind Toca Boca games is known for creating digital
-                environments that prioritize imagination over competition, safety over effort, and creative
-                differentiation over traditional gaming achievements.
+                Originally named Toca Life World, Toca Boca World represents an evolution of creative sandbox games for young players. The development team of this game is skilled in crafting an immersive environment. Compared to the traditional competitive experience, they prefer to provide users with an unlimited space for creativity.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
-                The platform brings together the previously independent Toca Life apps — city, town, hospital, farm, and
-                resort — into a cohesive world where characters and stories are seamlessly intertwined with the
-                environment.
+                This platform unifies the standalone Toca Life series apps—City, Town, Hospital, Farm, and Resort—into a whole world, while developing the storylines of each character in the environment.
               </p>
             </div>
 
@@ -767,40 +745,39 @@ export default function HomePage() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="space-y-6">
               <div className="bg-card rounded-xl p-6 border border-border">
-                <h3 className="text-xl font-semibold text-foreground mb-3">Character Development</h3>
+                <h3 className="text-xl font-semibold text-foreground mb-3">Getting Started</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Creative expression begins with character customization, which allows players to change their
-                  appearance, clothing, and accessories to suit any story concept or personal preference. Toca Boca's
-                  free-to-play model means that you can't unlock all of the model's features.
+                  Start by selecting or creating characters, then dress them up with any outfit from the complete
+                  wardrobe. Mix hairstyles, clothing, and accessories freely to build personalities that match your
+                  storytelling vision.
                 </p>
               </div>
 
               <div className="bg-card rounded-xl p-6 border border-border">
-                <h3 className="text-xl font-semibold text-foreground mb-3">Story Structure</h3>
+                <h3 className="text-xl font-semibold text-foreground mb-3">Building Your World</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Moving between locations in Toca Life World triggers storytelling, as each environment offers
-                  different scenarios and character interactions. Hospital settings can serve as inspiration for medical
-                  tourism, while school settings support educational role-playing scenarios.
+                  Explore all available locations—hospitals, schools, homes, shops, and more. Place furniture, arrange
+                  rooms, and create the perfect backdrop for your adventures. Every space can be customized to support
+                  your unique stories.
                 </p>
               </div>
             </div>
 
             <div className="space-y-6">
               <div className="bg-card rounded-xl p-6 border border-border">
-                <h3 className="text-xl font-semibold text-foreground mb-3">Social Unity</h3>
+                <h3 className="text-xl font-semibold text-foreground mb-3">Creating Stories</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  While Toca Boca is primarily a single-player game, its free online component allows players to share
-                  ideas about products and stories with friends and family. This social element often extends beyond the
-                  digital environment.
+                  Move characters between locations to create narratives. Act out daily routines, special events, or
+                  fantastical adventures. The game provides no set objectives—your imagination determines what happens
+                  next.
                 </p>
               </div>
 
               <div className="bg-card rounded-xl p-6 border border-border">
-                <h3 className="text-xl font-semibold text-foreground mb-3">Exploration and Collection</h3>
+                <h3 className="text-xl font-semibold text-foreground mb-3">Discovering Secrets</h3>
                 <p className="text-muted-foreground leading-relaxed">
-                  Hidden elements and special interactions in different locations reward exploration and
-                  experimentation. Players can achieve special animations, character reactions, and environmental
-                  changes through the game.
+                  Tap different objects to reveal hidden surprises and animations. Characters react uniquely to various
+                  items and situations. Part of the fun comes from finding unexpected interactions throughout the world.
                 </p>
               </div>
             </div>
@@ -832,7 +809,7 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">Benefits of Toca Boca Mod APK</h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto text-pretty">
-              Big developmental and educational benefits that extend well beyond simple entertainment
+              Young players gain valuable life skills through imaginative play and creative exploration
             </p>
           </div>
 
@@ -841,9 +818,10 @@ export default function HomePage() {
               <div className="w-16 h-16 gradient-primary rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-2xl">👥</span>
               </div>
-              <h3 className="font-semibold text-foreground mb-3">Social Skill Development</h3>
+              <h3 className="font-semibold text-foreground mb-3">Emotional Intelligence Growth</h3>
               <p className="text-sm text-muted-foreground">
-                Role-play scenes naturally teach social interaction patterns and community responsibility concepts
+                Children practice empathy and understanding by creating stories from different character perspectives
+                and exploring varied social situations
               </p>
             </div>
 
@@ -851,9 +829,10 @@ export default function HomePage() {
               <div className="w-16 h-16 gradient-secondary rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-2xl">💪</span>
               </div>
-              <h3 className="font-semibold text-foreground mb-3">Confidence Improvement</h3>
+              <h3 className="font-semibold text-foreground mb-3">Self-Expression Skills</h3>
               <p className="text-sm text-muted-foreground">
-                Open-ended nature encourages independent thinking and confident decision-making without fear of failure
+                The freedom to design, decorate, and direct their own narratives helps kids develop unique creative
+                voices and personal style
               </p>
             </div>
 
@@ -861,9 +840,10 @@ export default function HomePage() {
               <div className="w-16 h-16 gradient-accent rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-2xl">🧩</span>
               </div>
-              <h3 className="font-semibold text-foreground mb-3">Creative Problem Solving</h3>
+              <h3 className="font-semibold text-foreground mb-3">Narrative Building Abilities</h3>
               <p className="text-sm text-muted-foreground">
-                Unlimited access enables complex creative projects that require planning and resource management
+                Creating interconnected stories across multiple locations teaches plot development, character arcs, and
+                cause-and-effect thinking
               </p>
             </div>
 
@@ -871,10 +851,10 @@ export default function HomePage() {
               <div className="w-16 h-16 gradient-primary rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-2xl">🌟</span>
               </div>
-              <h3 className="font-semibold text-foreground mb-3">Real World Skills</h3>
+              <h3 className="font-semibold text-foreground mb-3">Digital Creativity Foundation</h3>
               <p className="text-sm text-muted-foreground">
-                Game scenarios mirror real-world activities, providing safe spaces to explore adult roles and social
-                systems
+                Early exposure to digital design tools and spatial planning lays groundwork for future creative and
+                technical pursuits
               </p>
             </div>
           </div>
@@ -895,8 +875,8 @@ export default function HomePage() {
                 Is this APK safe for devices?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                Once downloaded from tocabocamod.org, the Toca Boca Mod APK maintains the same security standards as the
-                original application while providing enhanced access to content.
+                The file undergoes regular security checks to ensure device safety. When downloaded from trusted sources
+                like tocabocamod.org, it poses no risk to your Android device or personal data.
               </div>
             </details>
 
@@ -905,8 +885,8 @@ export default function HomePage() {
                 Does this Mod APK require internet connection for full functionality?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                Once installed, all Toca Boca games content functions completely offline. The full Toca Boca online free
-                feature set and all unlocked content are included.
+                No internet needed after installation—everything works offline. All characters, furniture, and locations
+                remain accessible whether you're connected to wifi or not.
               </div>
             </details>
 
@@ -915,8 +895,8 @@ export default function HomePage() {
                 What divides the Mod APK from Toca Life World?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                Toca Life World represents the official version with gradual content unlocked, while Toca Boca Mod APK
-                all unlocked provides access to all characters, locations, and Toca Boca unlimited everything features.
+                The official app requires purchases to unlock premium content over time. This modified version gives you
+                immediate access to every character, location, and decoration without spending money.
               </div>
             </details>
 
@@ -925,8 +905,8 @@ export default function HomePage() {
                 How frequently does new update release appear?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                Update follows the official release schedule, ensures that new Toca Boca unlocked all furniture 2025
-                content and seasonal features become available shortly after official launches.
+                Modified versions typically release within days of official updates. Check tocabocamod.org regularly for
+                the latest version with newly added content and seasonal features.
               </div>
             </details>
 
@@ -935,8 +915,8 @@ export default function HomePage() {
                 Does Toca Boca Mod APK download require rooting or special permissions?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                No rooting is necessary. The installation only requires enabling unknown source installations in device
-                security settings.
+                Standard installation works on unrooted devices. Simply allow installation from unknown sources in your
+                Android settings—no technical modifications needed.
               </div>
             </details>
 
@@ -945,8 +925,8 @@ export default function HomePage() {
                 Can progress transfer from official Toca Life World to toca life world Mod APK?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                Save data and progress remain separate between official and modified versions, so the Toca Boca free
-                experience starts fresh with all content accessible.
+                These are treated as separate apps by Android, so saved games don't transfer between them. You'll start
+                with a clean slate—though with everything already unlocked from the beginning.
               </div>
             </details>
 
@@ -955,8 +935,8 @@ export default function HomePage() {
                 Are Toca Boca Mod APK happymod versions completely ads free?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                The modification removes all ads content, providing uninterrupted Toca Boca online free gameplay with
-                Toca Boca unlimited everything access.
+                Yes, advertisements have been completely removed. Your kids can play without any commercial interruptions
+                or unexpected pop-ups during their creative sessions.
               </div>
             </details>
 
@@ -965,8 +945,8 @@ export default function HomePage() {
                 How appropriate is this APK for different age groups?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                Toca Boca games maintain their child-friendly content standards in modified versions, though parental
-                supervision remains recommended for younger users.
+                The content stays suitable for ages 4-12, matching the original game's family-friendly design. Parents
+                should still supervise younger children during gameplay as with any digital activity.
               </div>
             </details>
 
@@ -975,8 +955,8 @@ export default function HomePage() {
                 What troubleshooting steps help when Toca Boca Mod APK all installation fails?
               </summary>
               <div className="px-6 pb-4 text-muted-foreground">
-                Common solutions include verifying adequate storage space, confirming unknown source permissions, and
-                redownload from tocabocamod.org for authentic compatible files.
+                First, check if you have enough storage (about 500MB free). Make sure unknown sources are enabled in
+                Settings. If problems persist, try redownloading the file from tocabocamod.org.
               </div>
             </details>
           </div>
